@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="xmlParser:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/xmlParser_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="xmlParser/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="xmlParser" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
