@@ -26,15 +26,5 @@
 
 </form>
 
-<%--<dialog>--%>
-    <%--<p>Окно диалога</p>--%>
-    <%--<button id="close">Закрыть</button>--%>
-<%--</dialog>--%>
-
-<%--<script>--%>
-    <%--var dialog = document.querySelector('dialog');--%>
-    <%--document.querySelector('#close').onclick = function() {--%>
-        <%--dialog.close(); // close dialog window--%>
-    <%--};</script>--%>
 </body>
 </html>
